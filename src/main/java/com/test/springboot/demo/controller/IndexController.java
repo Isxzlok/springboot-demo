@@ -31,6 +31,9 @@ public class IndexController {
      * 以后提交都只需敲 git push
      *
      *
+     * .gitignore文件   该文件作用是避免提交一些不必要的文件
+     *
+     *
      *
      */
 
